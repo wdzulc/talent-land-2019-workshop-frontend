@@ -8,7 +8,6 @@ before_script:
 script:
   - echo "Antes de construir"
   - npm run build
-  - ls
 
 deploy:
   provider: pages
