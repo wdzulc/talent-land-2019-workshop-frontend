@@ -7,7 +7,7 @@ before_script:
 
 script:
   - echo "Antes de construir"
-  - npm build
+  - npm run build
   - ls
 
 deploy:
