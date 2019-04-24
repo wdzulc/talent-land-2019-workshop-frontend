@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/talent-land-2019-workshop-frontend/precache-manifest.59a2a1188fcabef7edafca20766586d2.js"
+  "/talent-land-2019-workshop-frontend/precache-manifest.d59c74038b7b4bffa0f4cfc515aeec5f.js"
 );
 
 workbox.clientsClaim();
